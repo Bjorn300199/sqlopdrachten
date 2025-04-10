@@ -37,5 +37,4 @@ SELECT * FROM cursist WHERE plaats = 'Oosterhout' or 'Made';
 ### Opdracht 7
 * Geef de query voor een overzicht van alle plaatsen waar cursussen worden gegeven.
 
-
 SELECT curs_plts FROM cursus;
